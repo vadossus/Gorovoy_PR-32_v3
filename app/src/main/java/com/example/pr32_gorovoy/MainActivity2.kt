@@ -57,7 +57,7 @@ class MainActivity2 : AppCompatActivity() {
         } else {
             val alert = AlertDialog.Builder(this)
             alert.setTitle("Ошибка")
-                .setMessage("Введите поля")
+                .setMessage("Введите логин и пароль")
                 .setPositiveButton("ОК", null)
                 .create()
                 .show()
