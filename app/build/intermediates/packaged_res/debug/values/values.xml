@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#59E1FF</color>
+    <color name="black">#FF000000</color>
+    <color name="button_color">#1750E0</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="screen1_text_color">#F461DD</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">pr32_gorovoy</string>
+    <string name="count_meters">Количество метров</string>
+    <string name="enter">ВОЙТИ</string>
+    <string name="enter_count_meters">Введите количество метров</string>
+    <string name="items">1. 1-о комнатная квартира\n2. 2-х комнатная квартира\n3. 3-х комнатная квартира\n4. Студия</string>
+    <string name="list_of_items">1. 1-о комнатная квартира\n2. 2-x комнатная квартира\n3. 3-х комнатная квартира\n4. Студия</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="pick_price_for_metres">Выберите стоимость метра</string>
+    <string name="register">Регистрация</string>
+    <string name="result">Результат</string>
+    <string name="resultat_rachet">Результат расчета</string>
+    <string name="square_name">Расчёт площади</string>
+    <string name="text_screen1">Введите ваш логин и пароль</string>
+    <style name="Theme.Pr32_gorovoy" parent="Theme.AppCompat.DayNight.DarkActionBar"/>
+</resources>
